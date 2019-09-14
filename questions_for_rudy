@@ -1,0 +1,12 @@
+DONE
+- created user
+- created login path
+- created and located mylogin.cnf
+-// found out how to record video
+-// fixed computer shut off problem
+
+
+QUESTIONS
+-mysql will not execute in bash, only windows;
+- "get env: not defined, is it because virtual eniorment.-- when run script
+- 
